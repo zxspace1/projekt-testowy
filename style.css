@@ -1,3 +1,15 @@
 body{
-    background: red;
+    background: green;
+}
+
+p {
+color: red;
+font-size: 18px;
+background: yellow;
+}
+a {
+color: red;
+}
+a {
+color: darkviolet;
 }
